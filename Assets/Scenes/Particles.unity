@@ -213,12 +213,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 72612177}
-  m_LocalRotation: {x: -0.8843392, y: -0.1763093, z: 0.084518105, w: -0.4239292}
-  m_LocalPosition: {x: -4.341, y: 0.482, z: 2.637}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalRotation: {x: -0.9250854, y: -0.18443282, z: -0.06490618, w: 0.32555902}
+  m_LocalPosition: {x: 0.09899998, y: -0.33700013, z: -0.31800008}
+  m_LocalScale: {x: 0.5, y: 0.50000006, z: 0.5000001}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1893886246}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 51.224, y: -180, z: 157.45}
 --- !u!1 &131327308
@@ -5305,12 +5305,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1203514510}
-  m_LocalRotation: {x: 0.3260677, y: -0.62743914, z: 0.62743914, w: 0.3260677}
-  m_LocalPosition: {x: -4.31, y: 0.251, z: 2.077}
-  m_LocalScale: {x: 0.5, y: 0.83, z: 0.5}
+  m_LocalRotation: {x: 0.46112937, y: -0.887333, z: -0, w: 0}
+  m_LocalPosition: {x: 0.13000011, y: 0.22300017, z: -0.549}
+  m_LocalScale: {x: 0.49999988, y: 0.8299998, z: 0.49999982}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1893886246}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 90, y: -35.08, z: 90}
 --- !u!1 &1270750003
@@ -19933,12 +19933,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1731875925}
-  m_LocalRotation: {x: 0.5850943, y: 0.39707017, z: 0.5811855, w: 0.40276974}
-  m_LocalPosition: {x: -4.873, y: 0.438, z: 2.427}
-  m_LocalScale: {x: 0.5, y: 0.83, z: 0.5}
+  m_LocalRotation: {x: 0.69852537, y: -0.13018923, z: 0.6917312, w: -0.1289229}
+  m_LocalPosition: {x: -0.4330001, y: -0.12700008, z: -0.36200005}
+  m_LocalScale: {x: 0.49999988, y: 0.82999986, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1893886246}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0.56, y: 90, z: 111.115}
 --- !u!1 &1893886243
@@ -24754,6 +24754,9 @@ Transform:
   - {fileID: 131327309}
   - {fileID: 1696462506}
   - {fileID: 1270750004}
+  - {fileID: 1203514514}
+  - {fileID: 1731875929}
+  - {fileID: 72612181}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
