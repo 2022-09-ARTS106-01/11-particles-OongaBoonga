@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Particles.unity
+    guid: af3b0724f23dc7f42a43970a3c94b8ec
   m_configObjects: {}
